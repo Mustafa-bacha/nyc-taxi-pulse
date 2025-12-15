@@ -431,11 +431,6 @@ See `docs/deployment.md` for detailed instructions.
 └── 📁 docs/
     ├── deployment.md
     └── dashboard_guide.md
-```
-
-**GitHub Link**: [nyc-mobility-dashboard](https://github.com/yourusername/nyc-mobility-dashboard)
-
----
 
 ## 👥 Team & Responsibilities
 
@@ -510,8 +505,8 @@ This project is open source and available under the MIT License.
 
 For questions or issues:
 - Open a GitHub Issue in the repository
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [muhammadmustafashah01@gmail.com]
+- LinkedIn: [https://linkedin.com/in/muhammad-mustafa-shah-653a5724b/]
 
 ---
 
